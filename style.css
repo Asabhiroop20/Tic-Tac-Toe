@@ -1,0 +1,37 @@
+tr,td {
+    width:85px;
+    height:85px;
+    border : 2px solid black;
+    border-collapse: collapse;
+    background-color:beige;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: inset;
+    cursor: pointer;
+
+}
+
+table {
+    margin: auto;
+    padding:50px;
+    align-items: center;
+}
+#container {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+h1 {
+    font-size: 75px;
+    text-align: center;
+    background-image: linear-gradient(to left,lightblue,whitesmoke);
+}
+#restartbtn {
+    font-size: 25px;
+    text-align: center;
+    cursor: pointer;
+}
+h2 {
+    font-size: 40px;
+    background-image: linear-gradient(to left,rgb(255, 51, 0),rgb(200, 77, 77));
+}
